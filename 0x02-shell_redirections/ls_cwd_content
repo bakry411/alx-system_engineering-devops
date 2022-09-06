@@ -1,0 +1,20 @@
+total 40
+4 -rwxr--r-- 1 root root  32 Sep  6 02:55 0-hello_world
+4 -rwxr--r-- 1 root root  27 Sep  6 03:11 1-confused_smiley
+4 -rwxr--r-- 1 root root  27 Sep  6 03:43 2-hellofile
+0 -rw-r--r-- 1 root root   0 Sep  6 03:26 2-hellofile~
+4 -rwxr--r-- 1 root root  39 Sep  6 11:44 3-twofiles
+0 -rw-r--r-- 1 root root   0 Sep  6 11:35 3-twofiles~
+4 -rwxr--r-- 1 root root  32 Sep  6 11:49 4-lastlines
+0 -rw-r--r-- 1 root root   0 Sep  6 11:48 4-lastlines~
+4 -rwxr--r-- 1 root root  28 Sep  6 11:54 5-firstlines
+0 -rw-r--r-- 1 root root   0 Sep  6 11:53 5-firstlines~
+4 -rwxr--r-- 1 root root  40 Sep  6 12:17 6-third_line
+0 -rw-r--r-- 1 root root   0 Sep  6 11:58 6-third_line~
+4 -rwxr--r-- 1 root root  71 Sep  6 12:38 7-file
+0 -rw-r--r-- 1 root root   0 Sep  6 12:28 7-file~
+4 -rwxr--r-- 1 root root  35 Sep  6 12:53 8-cwd_state
+0 -rw-r--r-- 1 root root   0 Sep  6 12:50 8-cwd_state~
+4 -rw-r--r-- 1 root root 800 Sep  6 12:20 iacta
+0 -rw-r--r-- 1 root root   0 Sep  6 12:18 iacta~
+0 -rw-r--r-- 1 root root   0 Sep  6 13:09 ls_cwd_content
